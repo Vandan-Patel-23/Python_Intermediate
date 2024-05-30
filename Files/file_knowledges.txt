@@ -1,0 +1,1 @@
+A file object is an interface between the progrom and the file
